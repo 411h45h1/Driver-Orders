@@ -18,5 +18,5 @@ module.exports = {
     });
   },
 
-  getDatabase: () => dbCollection,
+  database: () => dbCollection,
 };
